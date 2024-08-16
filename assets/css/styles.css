@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif; /* fonte sem serifa */
+  font-size: 16px; /* tamanho da fonte, o tamnho padrão já é 16px */
+  background-color: rgb(255, 236, 239);
+}
+.container {
+  max-width: 600px; /* Largura máxima do container */
+  background-color: white;
+  /* border-width: 1px;
+  border-style: solid;
+  border-color: red; */
+  margin-left: auto;
+  margin-right: auto;
+}
+.menu {
+  display: flex;
+  justify-content: space-between;
+}
+h1 {
+  font-weight: bold;
+  font-size: 1.5em; /* unidade de medida baseada no tamanho atual */
+}
+.text-center {
+  text-align: center; /* Alinha o texto dos filhos do elemento*/
+  color: black; /* Define a cor dos filhos do elemento*/
+}
+
+.h1 {
+  color: purple;
+}
+
+.img-fluid {
+  width: 100%; /* Largura 100% */
+  height: auto;
+}
+
+.logo {
+  max-width: 100px;
+  text-align: center;
+}
