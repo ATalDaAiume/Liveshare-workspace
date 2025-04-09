@@ -1,6 +1,6 @@
 ![Primeiro Repositório](https://img.shields.io/badge/primeiro%20reposit%C3%B3rio-%F0%9F%8C%9F-important?style=flat&color=blueviolet)
 
-# 👩‍💻 Liveshare Workspace
+# 👩🏻‍💻 Liveshare Workspace
 
 Este foi meu primeiro repositório no GitHub, criado durante as primeiras aulas de **HTML e CSS** na faculdade. Foi também meu primeiro contato com versionamento de código, já que não tivemos isso no técnico (por incrível que pareça — teria facilitado, e muito, a minha vida e a dos meus colegas 🤡).
 
